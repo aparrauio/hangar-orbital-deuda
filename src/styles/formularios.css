@@ -54,6 +54,12 @@
   background: var(--color-acento);
 }
 
+.boton--secundario {
+  color: var(--color-texto);
+  background: transparent;
+  border-color: var(--color-borde-control);
+}
+
 .boton:disabled {
   cursor: not-allowed;
   opacity: 0.6;
