@@ -7,7 +7,7 @@ Este archivo es la fuente que lee la skill `/tablero` para crear o actualizar el
 En «Por hacer», el orden del archivo es la prioridad: la primera tarjeta se implementa primero.
 
 ## Spec 08 · Unificar el Botón secundario
-Lista: Por hacer
+Lista: Hecho
 
 **Objetivo:** que el Botón secundario (DESIGN.md §6.3) se defina en un solo lugar, `src/styles/formularios.css`, junto a la base y al primario. Cierra el pendiente 2 de la Spec 04 y la parte del Botón secundario de DT-8 en `docs/deuda-tecnica.md`.
 **Tipo:** refactorización de estilos, sin cambios visibles. **Tickets:** T-25 y T-26.
