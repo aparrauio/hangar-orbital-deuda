@@ -150,7 +150,7 @@ En la Tarjeta de nave todos los botones son secundarios, salvo una excepción: �
 - Alto mínimo 40 px, relleno horizontal `--espacio-4`, `--radio-sm`.
 - **Enviando:** el botón se deshabilita y baja su opacidad a 0.6, sin cambiar de ancho.
 - El foco sigue la misma regla que en los campos.
-- Clases: `boton boton--primario` y `boton boton--secundario`. La base y el primario viven en `formularios.css`; el secundario, de momento, en `misiones.css` (spec 04, pendiente de pasarlo a `formularios.css`).
+- Clases: `boton boton--primario` y `boton boton--secundario`. La base, el primario y el secundario viven en `formularios.css`.
 
 ### 6.4 Insignia de estado
 
